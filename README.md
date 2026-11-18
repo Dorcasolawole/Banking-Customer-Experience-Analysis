@@ -27,7 +27,7 @@ This dashboard presents:
 - Monthly complaint trends.
 - Complaints by submission channel.
 - Top ten states by complaint volume.
-![Banking Customer Experience Overview](Images/Banking%20Customer%20Experience%20Overview.jpg)
+![Banking Customer Experience Overview](Banking%20Customer%20Experience%20Overview.jpg)
 
 ### 2. Banking Service Performance
 
@@ -39,8 +39,7 @@ This dashboard explores:
 - Resolution status by product.
 - Response timeliness by product.
 
-  ![Banking Service Performance](Images/Banking%20Service%20Performance.jpg)
-
+  ![Banking Service Performance](Banking%20Service%20Performance.jpg)
 ## Key Findings
 
 - 51,065 banking-related complaints were analysed.

@@ -17,7 +17,6 @@ The goal is to understand complaint patterns, identify common banking issues, ex
 - Evaluate company response timeliness and resolution outcomes.
 - Compare complaint-handling performance across banking products.
 
-## Dashboards
 
 ### 1. Banking Customer Experience Overview
 
@@ -28,6 +27,7 @@ This dashboard presents:
 - Monthly complaint trends.
 - Complaints by submission channel.
 - Top ten states by complaint volume.
+![Banking Customer Experience Overview](Images/Banking%20Customer%20Experience%20Overview.jpg)
 
 ### 2. Banking Service Performance
 
@@ -38,6 +38,8 @@ This dashboard explores:
 - Complaint resolution status.
 - Resolution status by product.
 - Response timeliness by product.
+
+  ![Banking Service Performance](Images/Banking%20Service%20Performance.jpg)
 
 ## Key Findings
 

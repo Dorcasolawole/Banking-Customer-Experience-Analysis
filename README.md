@@ -28,7 +28,7 @@ This dashboard presents:
 - Complaints by submission channel.
 - Top ten states by complaint volume.
  
-![Banking Customer Experience Overview](Banking%20Customer%20Experience%20Overview.jpg)
+![Banking Customer Experience Overview](Banking%20Customer%20Experience%20Overview..jpg)
 
 ### 2. Banking Service Performance
 

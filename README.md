@@ -67,6 +67,7 @@ This dashboard explores:
 ## Data Source
 
 Consumer Financial Protection Bureau (CFPB) Consumer Complaint Database.
+https://www.consumerfinance.gov/data-research/consumer-complaints/?utm_source=chatgpt.com
 
 ## Project Files
 
